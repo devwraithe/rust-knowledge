@@ -45,7 +45,3 @@ let s = String::from("Hello");
 **Stack = fast & temporary**
 **Heap = flexible & long-lived**
 → Rust uses both for speed + safety.
-
----
-
-Would you like me to keep *this exact three-section reference format* for all future notes?
